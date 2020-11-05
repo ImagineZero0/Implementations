@@ -1,6 +1,4 @@
 /*
-Name - Varun Gupta
-Roll Number - 18MA20050
 Program 1 for Assignment 2 of OOSD Lab and Theory in which to implement Polygon Triangulation in time complexity of O(n*n)
 Logic (Program and Time Complexity Explanation )->
 The logic used is that to find the polygon triangulation, we need to find all the valid vertices where we could form a valid trianlge with it's adjacent vertices and hence keep on removing one
