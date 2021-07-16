@@ -1,0 +1,1 @@
+Evaluated Number of Footfalls of mobile devices using their pinpoint locations. The pinpoint locations were decided on the basis of their respective latitudes and longitudes. Two different implementations have been implemented, where one is based on their latitudes and longitudes while the other uses their geohash values.
